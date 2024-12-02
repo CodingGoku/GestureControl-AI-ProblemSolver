@@ -1,0 +1,8 @@
+streamlit run main.py ... to run code
+
+Resources:
+
+https://www.educative.io/answers/hand-tracking-python
+
+https://ai.google.dev/edge/mediapipe/solutions/vision/hand_landmarker
+
